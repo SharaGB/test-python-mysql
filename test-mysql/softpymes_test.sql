@@ -31,7 +31,7 @@ LOCK TABLES `companies` WRITE;
 INSERT INTO `companies` VALUES 
 (null, '001', '123456789', 'SOFTPYMES'),
 (null, '002', '654549864', 'ROSINA'),
-(null, '003', '894151894', 'PHYSIOTRAUMA'),
+(null, '003', '894151894', 'PHYSIOTRAUMA');
 UNLOCK TABLES;
 
 LOCK TABLES `colors` WRITE;
@@ -43,7 +43,7 @@ INSERT INTO `colors` VALUES
 (null, '5', 'AMARILLO'),
 (null, '6', 'VERDE'),
 (null, '7', 'GRIS'),
-(null, '8', 'NARANJA'),
+(null, '8', 'NARANJA');
 UNLOCK TABLES;
 
 LOCK TABLES `items` WRITE;
@@ -61,6 +61,6 @@ INSERT INTO `items` VALUES
 (null, 'ESTUFA', 5, 2, 3156, 9841),
 (null, 'LAVADORA', 3, 3, 9840, 0),
 (null, 'SILLON', 1, 1, 840, 5100),
-(null, 'CAMA', 9, 2, 8942, 84151),
-(null, 'COMEDOR', 7, 3, 3218, 6541151),
+(null, 'CAMA', 4, 2, 8942, 84151),
+(null, 'COMEDOR', 7, 3, 3218, 6541151);
 UNLOCK TABLES;
