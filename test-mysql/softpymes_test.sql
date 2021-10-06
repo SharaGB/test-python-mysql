@@ -1,3 +1,4 @@
+DROP TABLE IF EXISTS `items`;
 CREATE TABLE `items` (
   `id` int PRIMARY KEY AUTO_INCREMENT,
   `name` varchar(25),
@@ -7,12 +8,14 @@ CREATE TABLE `items` (
   `price` decimal
 );
 
+DROP TABLE IF EXISTS `colors`;
 CREATE TABLE `colors` (
   `id` int PRIMARY KEY AUTO_INCREMENT,
   `code` varchar(3),
   `name` varchar(25)
 );
 
+DROP TABLE IF EXISTS `companies`;
 CREATE TABLE `companies` (
   `id` int PRIMARY KEY AUTO_INCREMENT,
   `code` varchar(3),
