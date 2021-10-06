@@ -371,7 +371,6 @@ class Data:
                 "tradename": "FONDO NACIONAL DEL AHORRO"
             }
         ]
-        
         return thirds
     
     @statictmethod
@@ -426,6 +425,7 @@ class Data:
                 "colorName": "VIOLETA"
             }
         ]
+        return colors
     
     @statictmethod
     def items():
@@ -481,5 +481,6 @@ class Data:
                 'color': None
             }
         ]
+        return items
     
     
