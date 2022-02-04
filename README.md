@@ -29,8 +29,11 @@ Para el desarrollo de la prueba, se cuenta con un tiempo estimado de 1 hora.
 
 ## Resultados
 
+Para el resultado de la prueba realizada, deberán crear un repositorio público en github y, comapartir el link 
+por medio de un correo electrónico con la siguiente información.
+
 Una vez realizada la prueba, debe enviarse por correo con la siguiente información:
 
 - Asunto: Test Python - MySQL
-- Correo: lmelo@softpymes.com.co
+- Enviar al correo: lmelo@softpymes.com.co
 - Mensaje: Para el mensaje, agregar el nombre completo, conclusiones de la prueba, problemas y demás que desee contarnos.
