@@ -32,5 +32,5 @@ Para el desarrollo de la prueba, se cuenta con un tiempo estimado de 1 hora.
 Una vez realizada la prueba, debe enviarse por correo con la siguiente información:
 
 - Asunto: Test Python - MySQL
-- Correo: mrojas@softpymes.com.co
+- Correo: lmelo@softpymes.com.co
 - Mensaje: Para el mensaje, agregar el nombre completo, conclusiones de la prueba, problemas y demás que desee contarnos.
