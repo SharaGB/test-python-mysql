@@ -1,3 +1,7 @@
+CREATE database test_mysql;
+
+USE test_mysql;
+
 DROP TABLE IF EXISTS `items`;
 CREATE TABLE `items` (
   `id` int PRIMARY KEY AUTO_INCREMENT,
