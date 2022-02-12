@@ -1,6 +1,6 @@
 # Test Python - MySQL
 
-Prueba de conocimiento de Python y MySQL
+Prueba de conocimiento básico de Python y MySQL
 
 ## Importante
 
@@ -23,17 +23,15 @@ Lo que buscamos evaluar con esta prueba, es que la persona tenga un conocimiento
 
 ## Tiempo
 
-Para el desarrollo de la prueba, se cuenta con un tiempo estimado de 1 hora y 30 min.
-
+Para el desarrollo de la prueba, se cuenta con un tiempo estimado de 1 hora.
 > Nota: Ser muy cumplidos con el tiempo de entrega.
 
 ## Resultados
 
-Para el resultado de la prueba realizada, deberán crear un repositorio público en github y, comapartir el link 
-por medio de un correo electrónico con la siguiente información.
-
-Una vez realizada la prueba, debe enviarse por correo con la siguiente información:
+Para el resultado de la prueba, deberán crear un repositorio público en github y, compartir el link 
+por medio de un correo electrónico con la siguiente información:
 
 - Asunto: Test Python - MySQL
 - Enviar al correo: lmelo@softpymes.com.co
 - Mensaje: Para el mensaje, agregar el nombre completo, conclusiones de la prueba, problemas y demás que desee contarnos.
+> Nota: No olvidar enviar el link del repositorio con el resultado de la prueba, Recuerda, sólo se aceptaran respuestas que estén en un repositorio.
