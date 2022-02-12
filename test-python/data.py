@@ -68,7 +68,7 @@ class Data:
         return branches
     
     @statictmethod
-    def thirds():
+    def get_thirds():
         thirds = [
             {
                 "billAddress1": "CRA 8 69 76",
@@ -374,7 +374,7 @@ class Data:
         return thirds
     
     @statictmethod
-    def colors():
+    def get_colors():
         colors = [
             {
                 "colorCode": "AMA",
@@ -428,7 +428,7 @@ class Data:
         return colors
     
     @statictmethod
-    def items():
+    def get_items():
         items = [
             {
                 'code': '001',
