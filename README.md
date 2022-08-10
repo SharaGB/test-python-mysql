@@ -23,7 +23,7 @@ Lo que buscamos evaluar con esta prueba, es que la persona tenga un conocimiento
 
 ## Tiempo
 
-Para el desarrollo de la prueba, se cuenta con un tiempo estimado de 1 hora.
+Para el desarrollo de la prueba, se cuenta con un tiempo estimado de (2) dos horas.
 > Nota: Ser muy cumplidos con el tiempo de entrega.
 
 ## Resultados
